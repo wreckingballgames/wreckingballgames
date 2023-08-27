@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💬 I'm currently working on a submission for [Newbies Game Jam 2023](https://itch.io/jam/newbies4)
 
 <!--
 **wreckingballgames/wreckingballgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
