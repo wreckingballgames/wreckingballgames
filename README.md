@@ -2,7 +2,9 @@
 
 Don't look for the best way, just find a way today.
 
-Doing is planning. Doing is learning.
+Doing is learning.
+
+In preproduction, doing is planning. In production, planning is familiar.
 
 If it's your job to eat a frog, it's best to do it first thing in the morning.
 
