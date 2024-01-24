@@ -1,5 +1,7 @@
 ### Words I try to live by
 
+Less is more.
+
 Don't look for the best way, just find a way today.
 
 Doing is learning. Failing can be the most effective learning possible.
